@@ -10,3 +10,4 @@ spec:
       image: kammana/nodeapp:v1
       ports:
         - containerPort: 8080
+        agung ganteng
